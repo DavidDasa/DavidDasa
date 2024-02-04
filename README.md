@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Passionate software developer with a knack for turning ideas into efficient and scalable solutions. I thrive on challenges and enjoy diving into new technologies to create robust and elegant software.</h3>
 
+- 🔭 I’m currently working on [SearchEngine](https://github.com/DavidDasa/SearchEngine)
+
+- 👯 I’m looking to collaborate on [Tinyurl](https://github.com/DavidDasa/davidd-tinyurl-main)
+
+- 🤝 I’m looking for help with [Used-vehicle-store](https://github.com/DavidDasa/Used-vehicle-store)
+
 - 📫 How to reach me **daviddesse2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
