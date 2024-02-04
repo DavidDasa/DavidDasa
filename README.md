@@ -4,20 +4,14 @@
 
 Passionate software developer with a knack for turning ideas into efficient and scalable solutions. I thrive on challenges and enjoy diving into new technologies to create robust and elegant software.
 
-## 🛠️ Projects
-
-- [Project 1](#) - Brief description or key features.
-- [Project 2](#) - Brief description or key features.
-- [Project 3](#) - Brief description or key features.
-
 ## 📚 Education
 
 - B.Sc. Computer Science 
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](#)
-- [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/david-dasa/)
+- [Email](daviddesse2@gmail.com)
 
 ## 🌱 Open to Collaboration
 
